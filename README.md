@@ -1,2 +1,2 @@
 # Bitacoras-del-Juego
-Hoy difinitiva mente logramos conectar todo a la base de datos y esta funcional ahora queremos cambairle algo a las torres como que cuando sean mejoradas tengan una animacion roja, ya la logramos poner y solo faltaria esperar a la primera entrega la musica la logramos poner con ayuda a la IA para que tenga sonido de fondo y no sea aburrido jugar
+Hoy me puse a buscar 10 sprites de boss para el juego y la segunda entrega para estar listo y le agregue copmentarios de donde esta cada cosa para no perdernos y quiero hacer una animacion con los BOSS
