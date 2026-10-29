@@ -1,1 +1,2 @@
 # Bitacoras-del-Juego
+deje de trabajar en el juego porque mis partes ya estaban hechas pero volvi a trabajar en ello porque las partes que le tocaban a otros compañeros del grupo se les dificulto asi que los ayude y ami tambien se me dificulto pero logramos hacer que el munu de cuando apenas se ejecute el jeugo funcione por completo y aparete logramos hacer que se pongan las estructuras estamos trabajando en efectos visuales para cuando mejoramos las estructuras
