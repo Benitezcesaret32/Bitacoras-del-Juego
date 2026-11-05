@@ -1,2 +1,2 @@
 # Bitacoras-del-Juego
-Hoy difinitiva mente logramos conectar todo a la base de datos y esta funcional ahora queremos cambairle algo a las torres como que cuando sean mejoradas tengan una animacion roja, ya la logramos poner y solo faltaria esperar a la primera entrega la musica la logramos poner con ayuda a la IA para que tenga sonido de fondo y no sea aburrido jugar
+Hoy me la pase en el juego le hice muchisimas mejoras y aprendi a hacer como unas mini animaciones que me re sirvieron para mejorar el juego profe le espera una gran sorpresa yo ya no puedo mas investigue un monton para hcaer lo que hice hoy
